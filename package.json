@@ -1,0 +1,12 @@
+{
+  "name": "express-HelloWorld",
+  "description": "Email and SMS Notification Service.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.43.0",
+    "aws-serverless-express": "latest",
+    "body-parser": "^1.17.1",
+    "express": "latest"
+  }
+}
